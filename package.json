@@ -1,0 +1,15 @@
+{
+  "name": "commonjs-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "people.js",
+  "scripts": {
+    "start": "node people.js",
+    "dev": "node --watch people.js",
+    "hobbies": "node --watch hobbies.js",
+    "names": "node --watch names.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
