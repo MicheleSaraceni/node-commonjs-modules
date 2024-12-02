@@ -5,4 +5,4 @@ function names(firstName, lastName) {
     }
 }
 
-module.export = names;
+module.exports = names;
